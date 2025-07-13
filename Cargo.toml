@@ -1,0 +1,12 @@
+[package]
+name = "kindler"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+iced = "0.13.1"
+whoami = "1.4"
+image = "0.25.6"
+walkdir = "2.4"
+mobi = "0.8"
+rust-embed = "8"
