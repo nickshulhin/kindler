@@ -1,6 +1,7 @@
 # Kindler
-Simple viewer of Kindle books written in Rust. Potentially will add more features such as book management.
 ![Screenshot](https://github.com/nickshulhin/kindler/blob/master/screenshots/0.1_home.png)
+
+Simple viewer of Kindle books written in Rust using iced-rs. Potentially will add more features such as book management.
 
 ## How to build:
 ```bash
